@@ -12,6 +12,7 @@
 						"value": "@createArray('Customer','Product','CustomerAddress','Address','ProductDescription')",
 						"type": "Expression"
 					},
+					"isSequential": true,
 					"activities": [
 						{
 							"name": "Copy data1",
