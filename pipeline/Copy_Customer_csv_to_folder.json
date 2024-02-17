@@ -49,7 +49,7 @@
 				},
 				"inputs": [
 					{
-						"referenceName": "ADLSgen2_csv_DS",
+						"referenceName": "ADLSgen2_Customer_DS",
 						"type": "DatasetReference"
 					}
 				],
