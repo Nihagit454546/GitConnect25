@@ -49,7 +49,7 @@
 				},
 				"inputs": [
 					{
-						"referenceName": "ADLSgen2_csv_DS",
+						"referenceName": "Niha_adlsgen2_csv_ds",
 						"type": "DatasetReference"
 					}
 				],
