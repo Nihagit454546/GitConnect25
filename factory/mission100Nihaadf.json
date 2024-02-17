@@ -1,0 +1,9 @@
+{
+	"name": "mission100Nihaadf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f189c8da-58cd-4e94-a856-7face5d472d8",
+		"tenantId": "d83a6143-104d-46a7-987d-230c352019f1"
+	}
+}
