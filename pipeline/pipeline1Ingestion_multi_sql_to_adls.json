@@ -9,7 +9,7 @@
 				"userProperties": [],
 				"typeProperties": {
 					"items": {
-						"value": "@createArray('Customer','Product','CutomerAddress','Address','ProductDescription')",
+						"value": "@createArray('Customer','Product','CustomerAddress','Address','ProductDescription')",
 						"type": "Expression"
 					},
 					"activities": [
