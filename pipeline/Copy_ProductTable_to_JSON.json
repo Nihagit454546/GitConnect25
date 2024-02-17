@@ -1,5 +1,5 @@
 {
-	"name": "Copy_ProductTable_to_CSV",
+	"name": "Copy_ProductTable_to_JSON",
 	"properties": {
 		"activities": [
 			{
