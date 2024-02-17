@@ -1,0 +1,19 @@
+{
+	"name": "ADLSgen2_JSON_DS",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "adlsgen2_ls",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "Json",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobFSLocation",
+				"folderPath": "JSON",
+				"fileSystem": "landing"
+			}
+		},
+		"schema": {}
+	}
+}
