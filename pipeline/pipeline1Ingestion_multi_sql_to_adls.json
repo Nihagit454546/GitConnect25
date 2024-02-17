@@ -12,7 +12,8 @@
 						"value": "@createArray('Customer','Product','CustomerAddress','Address','ProductDescription')",
 						"type": "Expression"
 					},
-					"isSequential": true,
+					"isSequential": false,
+					"batchCount": 3,
 					"activities": [
 						{
 							"name": "Copy data1",
