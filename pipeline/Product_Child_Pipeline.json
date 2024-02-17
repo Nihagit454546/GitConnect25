@@ -92,7 +92,7 @@
 							],
 							"outputs": [
 								{
-									"referenceName": "ADLSgen2_csv_DS",
+									"referenceName": "adlsgen2_dynamic_csv_DS",
 									"type": "DatasetReference"
 								}
 							]
