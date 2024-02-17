@@ -3,7 +3,7 @@
 	"properties": {
 		"activities": [
 			{
-				"name": "Copy_Cutomer_to_json",
+				"name": "Copy_Product_to_json",
 				"type": "Copy",
 				"dependsOn": [],
 				"policy": {
