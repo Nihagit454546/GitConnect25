@@ -70,8 +70,14 @@
 							],
 							"outputs": [
 								{
-									"referenceName": "ADLSgen2_csv_DS",
-									"type": "DatasetReference"
+									"referenceName": "adlsgen2_generic_DS",
+									"type": "DatasetReference",
+									"parameters": {
+										"FolderName": {
+											"value": "@item()",
+											"type": "Expression"
+										}
+									}
 								}
 							]
 						}
